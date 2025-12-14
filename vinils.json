@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "artist": "The Beatles",
+    "album": "Abbey Road",
+    "year": 1969,
+    "genre": "Rock",
+    "price": "32.99€",
+    "image": "/oasis/img/Album/beattles.jpg"
+  },
+  {
+    "id": 2,
+    "artist": "Billy Joel",
+    "album": "The Stranger",
+    "year": 1977,
+    "genre": "Pop Rock",
+    "price": "28.50€",
+    "image": "/oasis/img/Album/BillyJoel.jpg"
+  },
+  {
+    "id": 3,
+    "artist": "Brat",
+    "album": "Attitude",
+    "year": 1985,
+    "genre": "Punk Rock",
+    "price": "24.99€",
+    "image": "/oasis/img/Album/brat.png"
+  },
+  {
+    "id": 4,
+    "artist": "Bruno Mars",
+    "album": "Doo-Wops & Hooligans",
+    "year": 2010,
+    "genre": "Pop",
+    "price": "29.99€",
+    "image": "/oasis/img/Album/BrunoMars.jpg"
+  },
+  {
+    "id": 5,
+    "artist": "Mecano",
+    "album": "Descanso Dominical",
+    "year": 1988,
+    "genre": "Pop",
+    "price": "26.90€",
+    "image": "/oasis/img/Album/mecano.jpg"
+  },
+  {
+    "id": 6,
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "year": 1982,
+    "genre": "Pop",
+    "price": "34.99€",
+    "image": "/oasis/img/Album/MichaelJakson.jpg"
+  },
+  {
+    "id": 7,
+    "artist": "Oasis",
+    "album": "(What's the Story) Morning Glory?",
+    "year": 1995,
+    "genre": "Britpop",
+    "price": "39.99€",
+    "image": "/oasis/img/Album/oasis.jpg"
+  },
+  {
+    "id": 8,
+    "artist": "Spice Girls",
+    "album": "Spice",
+    "year": 1996,
+    "genre": "Pop",
+    "price": "27.50€",
+    "image": "/oasis/img/Album/SpiceGirls.webp"
+  }
+]
